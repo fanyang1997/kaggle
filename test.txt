@@ -4,3 +4,8 @@ https://arxiv.org/abs/1611.05148
 
 
 https://arxiv.org/abs/1611.02648
+https://github.com/takus69
+https://github.com/Tony607/Keras_Deep_Clustering
+https://github.com/RuiShu/vae-clustering
+https://github.com/psanch21/VAE-GMVAE
+https://github.com/Nat-D/GMVAE
